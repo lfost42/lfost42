@@ -47,5 +47,4 @@
 <p align="left">
 <a href="https://twitter.com/lfost42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lfost42" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lynda-foster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lynda-foster" height="30" width="40" /></a>
-<a href="https://discord.gg/Lynda#0136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lynda#0136" height="30" width="40" /></a>
 </p>

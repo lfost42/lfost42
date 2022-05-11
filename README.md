@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lyndabrf@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1g6Jw3KA-TnlVpdEvv4YzeivWUCHkNhnq9VEJM0AVuy0](Resume@GoogleDocs)
+- 📄 Know about my experiences [Resume@GoogleDocs](https://docs.google.com/document/d/1g6Jw3KA-TnlVpdEvv4YzeivWUCHkNhnq9VEJM0AVuy0)
 
 - ⚡ Fun fact **I can read, transcribe, and proofread in Braille.**
 

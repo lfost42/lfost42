@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on [Software Planner](https://github.com/lfost42/Planner)
 
-- 🌱 I’m currently learning **API's and Test Driven Development.**
+- 🌱 I’m currently learning **API's and Test Driven Development (Xunit).**
 
-- 👨‍💻 All of my projects are available at [https://lfost42-portfolio.netlify.app](https://lfost42-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available in [my portfolio](https://lfost42-portfolio.netlify.app)
 
-- 📝 I regularly write articles on [https://lfost42-blog.herokuapp.com](https://lfost42-blog.herokuapp.com)
+- 📝 I regularly write articles on my [.NET Blog](https://lfost42-blog.herokuapp.com)
 
 - 💬 Ask me about **ASP.NET!**
 
 - 📫 How to reach me **lyndabrf@gmail.com**
 
-- 📄 Know about my experiences [Resume@GoogleDocs](https://docs.google.com/document/d/1g6Jw3KA-TnlVpdEvv4YzeivWUCHkNhnq9VEJM0AVuy0)
+- 📄 Know about my experiences! Here is my resume on [GoogleDocs](https://docs.google.com/document/d/1g6Jw3KA-TnlVpdEvv4YzeivWUCHkNhnq9VEJM0AVuy0)
 
 - ⚡ Fun fact **I can read, transcribe, and proofread in Braille.**
 

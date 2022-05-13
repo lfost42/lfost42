@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lynda Foster</h1>
 <h3 align="center">A passionate backend/full-stack web developer based in Los Angeles, CA.</h3>
 
-- 🔭 I’m currently working on [Software Planner](https://github.com/lfost42/Planner)
+- 🔭 I’m currently working on [Adventures](https://github.com/lfost42/Adventures)
 
 - 🌱 I’m currently learning **API's and Test Driven Development (Xunit).**
 

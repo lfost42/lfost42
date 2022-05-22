@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lynda Foster</h1>
-<h3 align="center">A passionate backend/full-stack web developer based in Los Angeles, CA.</h3>
+<h3 align="center">A passionate backend/full-stack web developer based in Los Angeles, CA who specializes in .NET(C#)/SQL programming.</h3>
 
 - 🔭 I’m currently working on [Intermediate JavaScript](https://github.com/lfost42/Leet50js)
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on my [.NET Blog](https://lfost42-blog.herokuapp.com)
 
-- 💬 Ask me about **ASP.NET!**
+- 💬 Ask me about **C# and ASP.NET!**
 
 - 📫 How to reach me **lyndabrf@gmail.com**
 

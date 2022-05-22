@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lynda Foster</h1>
 <h3 align="center">A passionate backend/full-stack web developer based in Los Angeles, CA.</h3>
 
-- 🔭 I’m currently working on [BrailleSymbolsAPI](https://github.com/lfost42/BrailleSymbolsAPI)
+- 🔭 I’m currently working on [BrailleSymbols API](https://github.com/lfost42/BrailleSymbols)
 
-- 🌱 I’m currently learning **API's and Test Driven Development (Xunit).**
+- 🌱 I’m currently learning **MERN Stack.**
 
 - 👨‍💻 All of my projects are available in [my portfolio](https://lfost42-portfolio.netlify.app)
 

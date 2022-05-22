@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lynda Foster</h1>
 <h3 align="center">A passionate backend/full-stack web developer based in Los Angeles, CA.</h3>
 
-- 🔭 I’m currently working on [Intermediate JavaScript](https://github.com/lfost42/Leet50js))
+- 🔭 I’m currently working on [Intermediate JavaScript](https://github.com/lfost42/Leet50js)
 
 - 🌱 I’m currently learning **MERN Stack.**
 

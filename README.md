@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lfost42&" alt="lfost42" /></p>
 
-## My Skill Set  
+## Technical Skills 
 <table><tr><td valign="top" width="33%">
 	
 ### Backend

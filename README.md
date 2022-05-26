@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Intermediate JavaScript](https://github.com/lfost42/Leet50js)
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **MERN Stack and Cloud Computing.**
 
 - 👨‍💻 All of my projects are available in [my portfolio](https://lfost42-portfolio.netlify.app)
 

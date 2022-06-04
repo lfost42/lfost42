@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lynda Foster</h1>
-<h3 align="center">A passionate backend/full-stack web developer based in Los Angeles, CA who specializes in .NET(C#)/SQL programming.</h3>
+<h3 align="center">A backend/full-stack web developer based in Los Angeles, CA who specializes in .NET(C#)/SQL programming.</h3>
 
 - 🔭 I’m currently working on [Leetcode](https://github.com/lfost42/Leet50js)
 

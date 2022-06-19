@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lynda Foster</h1>
 <h3 align="center">A full-stack web developer with a Computer Science degree, a focus on back-end based, and specialization in .NET(C#)/SQL.</h3>
 
-- 🔭 I’m currently working on learning [Data Structures and Algorithms](https://github.com/lfost42/DsaChallenges) and Test Driven Development. 
+- 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/lfost42/DsaChallenges) and Test Driven Development. 
 
-- 🌱 I’m currently learning **MERN Stack and Cloud Computing.**
+- 🌱 I’m currently learning **MERN Stack and Azure Fundamentals.**
 
 - 👨‍💻 All of my projects are available in [my portfolio](https://lfost42-portfolio.netlify.app)
 

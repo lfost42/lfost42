@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lynda Foster</h1>
-<h3 align="center">A full-stack web developer with a Computer Science degree, a focus on back-end based, and specialization in .NET(C#)/SQL.</h3>
+<h3 align="center">A full-stack web developer with a Computer Science degree, a focus on back-end, and specialization in .NET(C#)/SQL.</h3>
 
 - 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/lfost42/DsaChallenges) and Test Driven Development. 
 

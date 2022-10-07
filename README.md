@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lynda Foster</h1>
 <h3 align="center">A full-stack web developer with a Computer Science degree, a focus on back-end, and specialization in .NET(C#)/SQL.</h3>
 
-- 🔭 I’m currently working on [Smoothstack's Dynamics Engineer training]([https://github.com/lfost42/DsaChallenges](https://github.com/lfost42/Dynamics)). 
+- 🔭 I’m currently working on [Smoothstack's Dynamics Engineer training]([https://github.com/lfost42/Dynamics]). 
 
 - 🌱 I’m currently learning **Azure Fundamentals.**
 

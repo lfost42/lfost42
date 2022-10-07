@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Smoothstack's Dynamics Engineer training](https://github.com/lfost42/Dynamics). 
 
-- 🌱 I’m currently learning **Azure Fundamentals.**
+- 🌱 I’m currently learning **Dynamics/C# Application Development.**
 
 - 👨‍💻 All of my projects are available in [my portfolio](https://lfost42-portfolio.netlify.app)
 

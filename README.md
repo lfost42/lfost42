@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lynda Foster</h1>
 <h3 align="center">A full-stack web developer with a Computer Science degree, a focus on back-end, and specialization in .NET(C#)/SQL.</h3>
 
-- 🔭 I’m currently working on [Smoothstack's Dynamics Engineer training](https://github.com/lfost42/Dynamics). 
+- 🔭 I’m currently working on [Smoothstack's DevOps Engineer training](https://github.com/lfost42/DevOps). 
 
-- 🌱 I’m currently learning **Dynamics/C# Application Development.**
+- 🌱 I’m currently learning **Python.**
 
 - 👨‍💻 All of my projects are available in [my portfolio](https://lfost42-portfolio.netlify.app)
 

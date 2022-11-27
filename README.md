@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Smoothstack's DevOps Engineer training](https://github.com/lfost42/DevOps). 
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **Docker.**
 
 - 👨‍💻 All of my projects are available in [my portfolio](https://lfost42-portfolio.netlify.app)
 

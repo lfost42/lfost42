@@ -1,7 +1,7 @@
 <h1 align="center">Lynda Foster</h1>
 <h3 align="center">A Cloud Engineer with a BS Computer Science, a specialization in Salesforce technologies, and a background in DevOps.</h3>
 
-- 🔭 I’m currently working on [Salesforce Certifications](https://trailhead.salesforce.com)). 
+- 🔭 I’m currently working on [Salesforce Certifications](https://trailhead.salesforce.com). 
 
 - 🌱 I’m currently learning **Apex, LWC, SOQL, and VisualForce.**
 

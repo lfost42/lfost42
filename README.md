@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Lynda Foster</h1>
-<h3 align="center">A full-stack web developer with a Computer Science degree, a focus on back-end, and specialization in .NET(C#)/SQL.</h3>
+<h1 align="center">Lynda Foster</h1>
+<h3 align="center">A Cloud Engineer with a BS Computer Science, a specialization in Salesforce technologies, and a background in DevOps.</h3>
 
-- 🔭 I’m currently working on [Smoothstack's DevOps Engineer training](https://github.com/lfost42/DevOps). 
+- 🔭 I’m currently working on [Salesforce Certifications](https://trailhead.salesforce.com)). 
 
-- 🌱 I’m currently learning **Docker.**
+- 🌱 I’m currently learning **Apex, LWC, SOQL, and VisualForce.**
 
-- 👨‍💻 All of my projects are available in [my portfolio](https://lfost42-portfolio.netlify.app)
+<!-- - 👨‍💻 All of my projects are available in [my portfolio](https://lfost42-portfolio.netlify.app) -->
 
-- 📝 I regularly write articles on my [.NET Blog](https://lfost42-blog.herokuapp.com)
+<!-- - 📝 I regularly write articles on my [.NET Blog](https://lfost42-blog.herokuapp.com) -->
 
-- 💬 Ask me about **C# and ASP.NET!**
+- 💬 Ask me about **Salesforce!**
 
 - 📫 How to reach me **lyndabrf@gmail.com**
 
-- 📄 Know about my experiences! Here is my resume on [GoogleDocs](https://docs.google.com/document/d/1g6Jw3KA-TnlVpdEvv4YzeivWUCHkNhnq9VEJM0AVuy0)
+- 📄 Know about my experiences! Here is my [resume](https://lfost42-portfolio.netlify.app/images/LyndaFoster_resume.pdf)
 
 - ⚡ Fun fact **I can read, transcribe, and proofread in Braille.**
 

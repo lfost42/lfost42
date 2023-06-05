@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Lynda Foster!</h1>
 <h3 align="center">I'm a Cloud Engineer with a BS Computer Science, a specialization in Salesforce technologies, and a background in DevOps.</h3>
 
-- 🔭 I’m currently working on [Salesforce Certified Admininstrator](https://trailhead.salesforce.com). 
+- 🔭 I’m currently working on becoming a [Salesforce Certified Admininstrator](https://trailhead.salesforce.com). 
 
-- 🌱 I’m currently learning **Apex, LWC, SOQL, and VisualForce.**
+- 🌱 I’m currently learning **Apex, LWC, SOQL, VisualForce, and all other things Salesforce related!**
 
 <!-- - 👨‍💻 All of my projects are available in [my portfolio](https://lfost42-portfolio.netlify.app) -->
 

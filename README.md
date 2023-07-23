@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lynda Foster!</h1>
 <h3 align="center">I'm a Cloud Engineer with a BS Computer Science, a specialization in Salesforce technologies, and a background in DevOps.</h3>
 
-- 🔭 I’m currently working on becoming a [Salesforce Certified Admininstrator](https://trailhead.salesforce.com). 
+- 🔭 I’m currently working on becoming a [Salesforce Certified Platform App Builder](https://trailhead.salesforce.com). 
 
 - 🌱 I’m currently learning **Apex, LWC, SOQL, VisualForce, and all other things Salesforce related!**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences! Here is my [resume](https://lfost42-portfolio.netlify.app/images/LyndaFoster_resume.pdf)
 
-- ⚡ Fun fact **I can read, transcribe, and proofread in Braille.**
+- ⚡ Fun fact **I can read, transcribe, and proofread in Braille and I'm trying to learn how to run again.**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lfost42&show_icons=true&locale=en" alt="lfost42" /></p>
 

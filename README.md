@@ -76,7 +76,7 @@
 	<a href="https://www.w3schools.com/cs/" target="_blank" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45" /></a>
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/></a>
 	<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45" /></a> 
-	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45" /></a> 
+	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/690px-Microsoft_SQL_Server_Logo.svg.png" alt="mssql" width="45" height="45" /></a> 
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" /></a>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a> 
 </p></td></div>

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on becoming a [Salesforce Certified Hyperautomation Developer](https://trailhead.salesforce.com). 
 
-- 🌱 I’m currently learning **Apex, LWC, SOQL, VisualForce, and all other things Salesforce related!**
+- 🌱 I’m currently learning **MuleSoft, Kubernetes, and [Grafana](https://github.com/lfost42/grafana-notes).**
 
 <!-- - 👨‍💻 All of my projects are available in [my portfolio](https://lfost42-portfolio.netlify.app) -->
 

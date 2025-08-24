@@ -47,7 +47,7 @@
 <div align="center">
 	<p><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45" /></a>
 	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a>
+	<img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo-700x394.png" alt="aws" width="45" height="45"/></a>
 	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> 
 	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://d33wubrfki0l68.cloudfront.net/a49c5f63d431650c696cfd10cb70c880726281df/c9f07/img/logo.png" alt="bash" width="45" height="45"/></a> 

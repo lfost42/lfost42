@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences! Here is my [resume](https://lfost42-portfolio.netlify.app/images/LyndaFoster_resume.pdf)
 
-- ⚡ Fun fact **I can read, transcribe, and proofread in Braille. I'm also an avid camper and hiker.**
+- ⚡ Fun fact **I can read, transcribe, and proofread in Braille. Most of my traveling involves camping and hiking to explore and discover weird things.**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lfost42&show_icons=true&locale=en" alt="lfost42" /></p>
 

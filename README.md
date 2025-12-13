@@ -19,8 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lfost42&show_icons=true&locale=en" alt="lfost42" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lfost42&" alt="lfost42" /></p>
-
 ## Technical Skills 
 <table>
 	<tr><td valign="top" width="25%">

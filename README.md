@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lynda Foster!</h1>
-<h3 align="center">I'm a Cloud Engineer with a BS Computer Science, a specialization in Salesforce technologies, and a background in DevOps.</h3>
+<h3 align="center">I'm a Cloud Success Engineer with a BS Computer Science, a specialization in Salesforce technologies, and a background in DevOps.</h3>
 
 - 🔭 I’m currently working on becoming a [Salesforce Certified Hyperautomation Developer](https://trailhead.salesforce.com). 
 

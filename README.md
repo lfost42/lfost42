@@ -26,7 +26,7 @@
 ### Kubernetes Certifications
 <p>
 	<a href="https://www.credly.com/badges/2c5458e2-0c2f-4458-9ec2-401355ee6539" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="100" height="100"/></a>
-	<a href="https://www.credly.com/badges/233c3dab-168a-440d-a621-e4ffe65ab361" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="
+	<a href="https://www.credly.com/badges/233c3dab-168a-440d-a621-e4ffe65ab361" target="_blank" rel="noreferrer"><img src="https://k21academy.com/wp-content/uploads/2021/12/KCNA-Logo-300x300-1.png" alt="
 KCNA: Kubernetes and Cloud Native Associate" width="100" height="100"/></a>
 </p>
 

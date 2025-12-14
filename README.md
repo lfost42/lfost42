@@ -1,25 +1,25 @@
 <h1 align="center">Hi, I'm Lynda Foster!</h1>
 <h3>I'm a Cloud Success Engineer with a BS Computer Science, a specialization in Salesforce technologies, and a background in DevOps.</h3>
 
-- 🔭 I’m currently working on becoming a [Kubstronaut](https://www.cncf.io/training/kubestronaut/). 
+- 🔭 These days, I’m working on becoming a [Kubstronaut](https://www.cncf.io/training/kubestronaut/). 
 
-- 🌱 I’m currently learning **MuleSoft, Kubernetes, and [Grafana](https://github.com/lfost42/grafana-notes).**
+- 🌱 I’m also leveling my skills in **Kubernetes, Networking, Security, and [Grafana](https://github.com/lfost42/grafana-notes).**
 
 <!-- - 👨‍💻 All of my projects are available in [my portfolio](https://lfost42-portfolio.netlify.app) -->
 
 <!-- - 📝 I regularly write articles on my [.NET Blog](https://lfost42-blog.herokuapp.com) -->
 
-- 💬 Ask me about **Salesforce!**
+- 💬 Ask me about **Salesforce** where I specialize in Salesforce Platform and MuleSoft Integrations.  
 
 - 📫 How to reach me **lyndabrf@gmail.com**
 
 - 📄 Know about my experiences! Here is my [resume](https://lfost42-portfolio.netlify.app/images/LyndaFoster_resume.pdf)
 
-- ⚡ Fun fact **I can read, transcribe, and proofread in Braille. Most of my traveling involves camping and hiking to explore and discover weird things.**
-
+- ⚡ A few fun facts: I can read, transcribe, and proofread United English Braille. I prefer my travel adventures to involve camping and/or hiking to explore and discover weird things. The favorite part of my day are those moments before sleep when I'm sharing life's highlights my husband.
+ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lfost42&show_icons=true&locale=en" alt="lfost42" /></p>
 
-## Technical Skills 
+## Certifications
 <table>
 	<tr><td valign="top" width="25%">
 
@@ -44,6 +44,8 @@ KCNA: Kubernetes and Cloud Native Associate" width="100" height="100"/></a>
 </p></td></div>
 </tr>
 </table>
+
+## Technical Skills
 
 <table>
 	<tr><td valign="top" width="25%">

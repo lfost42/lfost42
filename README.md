@@ -9,7 +9,7 @@
 
 <!-- - 📝 I regularly write articles on my [.NET Blog](https://lfost42-blog.herokuapp.com) -->
 
-- 💬 Ask me about **Salesforce** where I support MuleSoft Integrations and Salesforce Platform (ServiceCloud, ExperienceCloud, SalesCloud, Industries, RevenueCloud, MarketingCloud).  
+- 💬 Ask me about **Salesforce** where I support MuleSoft Integrations and Salesforce Platform (ServiceCloud, ExperienceCloud, SalesCloud, DataCloud, Industries, RevenueCloud, MarketingCloud).  
 
 - 📫 How to reach me **lyndapi@proton.me**
 

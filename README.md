@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Salesforce** where I support MuleSoft Integrations and Salesforce Platform (ServiceCloud, ExperienceCloud, SalesCloud, Industries, RevenueCloud, MarketingCloud).  
 
-- 📫 How to reach me **lyndabrf@gmail.com**
+- 📫 How to reach me **lyndapi@proton.me**
 
 - 📄 Know about my experiences! Here is my [resume](https://lfost42-portfolio.netlify.app/images/LyndaFoster_resume.pdf)
 

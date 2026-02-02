@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lynda Foster!</h1>
 <h3>I'm a Cloud Success Engineer with a BS Computer Science, a specialization in Salesforce technologies, and a background in DevOps.</h3>
 
-- 🔭 These days, I’m working on becoming a [Kubstronaut](https://www.cncf.io/training/kubestronaut/). 
+- 🔭 These days, I’m working on becoming a [Kubstronaut](https://www.cncf.io/training/kubestronaut/) (only KSCS and CKS to go!). 
 
 - 🌱 I’m also leveling my skills in **Kubernetes, Networking, Security, and [Grafana](https://github.com/lfost42/grafana-notes).**
 
@@ -15,9 +15,9 @@
 
 - 📄 Know about my experiences! Here is my [resume](https://lfost42-portfolio.netlify.app/images/LyndaFoster_resume.pdf)
 
-- ⚡ A few fun facts: I can read, transcribe, and proofread United English Braille. I prefer my travel adventures to involve camping and/or hiking to explore and discover weird things. The favorite part of my day are those moments before sleep when I'm sharing life's highlights my husband.
+- ⚡ A few fun facts: I can read, transcribe, and proofread United English Braille. I prefer travel adventures that involve camping and/or hiking to explore and discover weird things. My favorite time of day are those moments before sleep when I'm sharing life's highlights with husband.
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lfost42&show_icons=true&locale=en" alt="lfost42" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lfost42&show_icons=true&locale=en" alt="" /></p>
 
 ## Certifications
 <table>
